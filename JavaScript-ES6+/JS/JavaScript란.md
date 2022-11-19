@@ -32,6 +32,7 @@
 1. LTS 버전 설치, 설치후 VS CODE 종료후 재실행하기.
 2. VS CODE -> TERMINAL 열기
 3. 명령어실행 
+  <br>
    ![](2022-11-19-23-07-04.png)
   
    ```javascript
