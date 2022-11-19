@@ -24,3 +24,25 @@
 >[참조]https://en.wikipedia.org/wiki/ECMAScript
 
 ---
+
+### NODE JS  설치하기
+
+>[다운로드링크] https://nodejs.org/ko/
+
+1. LTS 버전 설치, 설치후 VS CODE 종료후 재실행하기.
+2. VS CODE -> TERMINAL 열기
+3. 명령어실행 
+   ![](2022-11-19-23-07-04.png)
+  
+   ```javascript
+   $node -v ->버전확인
+   $node -> 노드실행
+   ```
+4. node js는  JavaScript로  컴퓨터와 통신할수 있다. -> js파일을 만들면, 값을 번역해준다.
+![](2022-11-19-23-11-43.png) 
+5. 코드를 작성할때마다 확인하긴 번거로우니 nodemon을 사용 -> node js내의 라이브러리라고 생각
+![](2022-11-19-23-14-02.png)
+
+
+6. nodemon은 파일을 계속해서 모니터링하므로 , 코드를 수정하고 저장하면 바로 터미널에 업데이트된다.
+![](2022-11-19-23-14-14.png)
