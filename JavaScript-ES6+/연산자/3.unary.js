@@ -31,3 +31,11 @@ console.log(+undefined); // NaN
 
 console.log(!!1); // ! 부정연산자
 // !! 값을 boolean 타입으로 변환함
+
+let num =2;
+
+if(num%2===0){
+    console.log(👍);
+}else{
+    console.log(👎);
+}
